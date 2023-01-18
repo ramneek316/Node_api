@@ -1,8 +1,7 @@
 **Register, Login, get your profile, Logout**
 
-**Add Credentials**
-_create config.js with the help of exampleConfig.js_
-_Delete the exampleConfig.js its no longer required_
+**Add Credentials in config.js**
+
 _Add your mongoDB username and encoded password if it contains special characters_
 
 _Command: npm install to install the app_

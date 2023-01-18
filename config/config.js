@@ -6,7 +6,7 @@ const config = {
   default: {
     SECRET: "mysecretkey",
     DATABASE:
-      "mongodb+srv://sanjit316:Kas%40123456@cluster0.0gjv9ik.mongodb.net/test4",
+      "mongodb+srv://username:password@cluster0.0gjv9ik.mongodb.net/test4",
   },
 };
 exports.get = function get(env) {
