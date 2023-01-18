@@ -3,10 +3,10 @@
 **Add Credentials in config.js**
 
 _Add your mongoDB username and encoded password if it contains special characters_
-
+**INSTALL APP**
 _Command: npm install to install the app_
+**RUN the APP**
 _Command to run the app: nodemon index_
-
 **Register the User**
 _Method POST_
 _http://localhost:8080/api/register_
